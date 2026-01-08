@@ -2,7 +2,7 @@
 
 ![](public/cover.jpg)
 
-[Overview](#overview-and-objectives) | [Schedule](#schedule) | [Tips](#tips-for-success) | [Assignments](#assignments) | [Software](#software) | [Academic Integrity](#academic-integrity-and-ai-use)
+[Overview](#overview-and-objectives) | [Schedule](#schedule) | [Assignments](#assignments) | [Software](#software) | [Academic Integrity](#academic-integrity-and-ai-use)
 
 [![Join Slack](https://img.shields.io/badge/Join-Slack-blue?logo=slack)](https://join.slack.com/t/musa6502026/shared_invite/zt-3monprxnr-5wpkj_4nNYGq2tiBG4qFaw)
 
@@ -46,16 +46,6 @@ Most weeks, we will divide class time evenly between lectures and labs. Lectures
 | 12 | 4/9 | Case study: predictive modeling using deep learning (Guest: TBD) | | |
 | 13 | 4/16 | Big data and machine learning: techniques, tools, challenges, future directions | Final Exam | |
 | 14 | 4/23 | Final project presentations | [Final Project](assignments/FINAL_PROJECT.md) | |
-
-## Tips for Success
-
-Based on our experiences teaching (and taking!) this class in previous years, here are a couple pieces of advice for how to approach the class:
-
-1. Be patient. Remote sensing and machine learning are big domains, and it will take you a little while to wrap your head around the jargon and the core concepts. We will deliberately return to key topics repeatedly throughout the semester in order to give you a ample opportunity to absorb all of the most important information.
-
-2. Give yourself enough time to complete assignments. Programming always involves a lot of debugging, and this class is no exception. We recommend budgeting at least twice as much time as you _think_ you'll need to complete an assigingment. Trust us--this will save you a lot of stress.
-
-3. Come ready to explore! Remote sensing and machine learning are massive domains--more than we can possibly cover in one semester. This class is meant to be a launching pad; we hope you'll leave it with a sense of excitement and curiosity about where else remote sensing and machine learning can take you.
 
 ## Assignments
 There are two exams and two projects over the course of the semester. The midterm and final exams are each worth 20%. The EuroSat assignment is worth 20%. The final project is worth 40% total: 10% for the proposal and 30% for the final submission. For more information, please see the rubrics included with each assignment.
